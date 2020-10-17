@@ -1,0 +1,21 @@
+{
+  "name": "data-aggregation",
+  "version": "1.0.0",
+  "description": "Simple tool to aggregate disparate data types",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StuartCowley/DataAggregation.git"
+  },
+  "keywords": [
+    "data",
+    "aggregation"
+  ],
+  "author": "Stuart Cowley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StuartCowley/DataAggregation/issues"
+  }
+}
