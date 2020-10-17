@@ -1,5 +1,5 @@
 const dataArray = require('./rawData/dataArray.js').dataSet1;
-const csvArray = require('./converions/convertCSV.js').converted
+const csvArray = require('./conversions/convertCSV.js').converted
 const arrayMethods = require('./arrayMethods.js');
 
 let users = {}
